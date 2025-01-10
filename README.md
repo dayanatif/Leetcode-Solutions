@@ -9,7 +9,7 @@ showcasing my journey to improve problem-solving skills.
 ## 🌟 Features
 
 - 📝 Clear and concise solutions for each problem.
-- 🔥 Regularly updated as I solve more problems.
+- 🔥 Regularly updated as I solve more problems on LeetCode.
 - 🌐 Solutions primarily implemented in Python, with plans to add more languages in the future.
 
 ---
